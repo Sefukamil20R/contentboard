@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Why TypeScript is the Better Choice over JavaScript",
+    "image": "/images/next_seo.png",
+    "snippet": "Understand why TypeScript is increasingly favored over JavaScript.",
+    "content": "<p>TypeScript brings static typing to JavaScript. It helps reduce bugs and improve developer productivity. Here’s a simple comparison:</p>\n<pre><code>let message: string = 'Hello';\nmessage = 5; // Error</code></pre>\n<p>This would not be caught in JavaScript, leading to possible runtime issues.</p>\n<pre><code>function add(a: number, b: number): number {\n  return a + b;\n}</code></pre>\n<p>With TypeScript, we can catch type mismatches during development. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.</p>",
+    "category": "JavaScript"
+  },
+  {
+    "id": 2,
+    "title": "Boosting SEO with Next.js Head Component",
+    "image": "/images/next_seo.png",
+    "snippet": "Learn how Next.js can help your site rank higher with proper head usage.",
+    "content": "<p>Next.js supports server-side rendering and lets you easily manage metadata using the Head component. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at sagittis velit, nec efficitur justo. Praesent vel lorem at risus euismod posuere.</p>",
+    "category": "SEO"
+  },
+  {
+    "id": 3,
+    "title": "Server-Side Rendering Benefits in Next.js",
+    "image": "/images/next_seo.png",
+    "snippet": "Explore how SSR can help improve SEO and performance in your apps.",
+    "content": "<p>Next.js supports server-side rendering and lets you easily manage metadata using the Head component. Vivamus eget eros nec justo tincidunt gravida. Integer dapibus felis nec magna laoreet, id fringilla nulla gravida.</p>",
+    "category": "SEO"
+  },
+  {
+    "id": 4,
+    "title": "Optimizing Metadata for SEO in Next.js",
+    "image": "/images/next_seo.png",
+    "snippet": "Discover how to structure your metadata for better search rankings.",
+    "content": "<p>Next.js supports server-side rendering and lets you easily manage metadata using the Head component. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus volutpat velit, in feugiat ipsum placerat nec. Nunc vel sem ut sapien feugiat tempus.</p>",
+    "category": "SEO"
+  }
+]
